@@ -14,7 +14,7 @@ Aim precisely, launch powerful balls, destroy incoming bricks, and survive as lo
 ## 🎮 Gameplay Preview
 
 Watch gameplay on YouTube:  
-https://studio.youtube.com/video/4NlTBXMbjAg/edit
+[YouTube 8 Ball Bomb – Brick Breaker](https://www.youtube.com/shorts/4NlTBXMbjAg)
 
 ---
 
